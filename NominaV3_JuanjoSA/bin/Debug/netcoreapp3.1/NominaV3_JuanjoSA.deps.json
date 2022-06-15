@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NominaV3_JuanjoSA/1.0.0": {
+        "runtime": {
+          "NominaV3_JuanjoSA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NominaV3_JuanjoSA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
